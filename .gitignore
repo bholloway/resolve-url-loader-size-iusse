@@ -1,0 +1,13 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+node_modules/
+.tmp/
+dist/
+scripts/.logs/
+scripts/config/Local.Config.ps1
+npm-debug*.log
+debug.log
+initrepo.bat
