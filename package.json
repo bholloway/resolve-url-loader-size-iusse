@@ -26,13 +26,13 @@
     "sp-pnp-js": "^2.0.2"
   },
   "devDependencies": {
-    "@types/core-js": "^0.9.35",
+    "@types/core-js": "0.9.35",
     "@types/jquery": "^2.0.41",
     "@types/knockout": "^3.4.40",
     "@types/lodash": "^4.14.55",
     "@types/loglevel": "^1.4.29",
-    "@types/node": "^7.0.7",
-    "bootstrap-loader": "^2.0.0-exports.1",
+    "@types/node": "7.0.7",
+    "bootstrap-loader": "^2.0.0",
     "bootstrap-sass": "^3.3.7",
     "core-js": "^2.4.1",
     "css-loader": "^0.27.3",
